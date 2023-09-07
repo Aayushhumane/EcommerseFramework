@@ -1,0 +1,7 @@
+ pytest -v -s -m "sanity" TestCases --browser chrome
+rem pytest -v -s -m "sanity and regression" TestCases --browser chrome
+rem pytest -v -s -m "sanity or regression" TestCases --browser chrome
+rem pytest -v -s -m "regression" TestCases --browser chrome
+rem pytest -v -s -m "sanity" --html = ./Reports/reports.html TestCases --browser chrome
+
+

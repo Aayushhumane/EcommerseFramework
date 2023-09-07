@@ -1,0 +1,119 @@
+2023-08-08 14:00:38PM: INFO: *******Test_003_Addcustomer*****
+2023-08-08 14:00:44PM: INFO: ******Login successful******
+2023-08-08 14:00:44PM: INFO: ******** starting Add customer******
+2023-08-08 14:00:47PM: INFO: ****** Adding customer info ******
+2023-08-09 13:25:50PM: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+2023-08-09 13:25:51PM: INFO: *******Test_003_Addcustomer*****
+2023-08-09 13:25:57PM: INFO: ******Login successful******
+2023-08-09 13:25:57PM: INFO: ******** starting Add customer******
+2023-08-09 13:25:59PM: INFO: ****** Adding customer info ******
+2023-08-09 13:33:18PM: INFO: *******Test_003_Addcustomer*****
+2023-08-09 13:33:24PM: INFO: ******Login successful******
+2023-08-09 13:33:24PM: INFO: ******** starting Add customer******
+2023-08-09 13:33:27PM: INFO: ****** Adding customer info ******
+2023-08-09 13:40:17PM: INFO: *******Test_003_Addcustomer*****
+2023-08-09 13:40:23PM: INFO: ******Login successful******
+2023-08-09 13:40:23PM: INFO: ******** starting Add customer******
+2023-08-09 13:40:26PM: INFO: ****** Adding customer info ******
+2023-08-09 13:49:57PM: INFO: *******Test_003_Addcustomer*****
+2023-08-09 13:50:02PM: INFO: ******Login successful******
+2023-08-09 13:50:02PM: INFO: ******** starting Add customer******
+2023-08-09 13:50:08PM: INFO: ****** Adding customer info ******
+2023-08-09 13:51:53PM: INFO: *******Test_003_Addcustomer*****
+2023-08-09 13:52:01PM: INFO: ******Login successful******
+2023-08-09 13:52:01PM: INFO: ******** starting Add customer******
+2023-08-09 13:52:04PM: INFO: ****** Adding customer info ******
+2023-08-09 13:52:15PM: INFO: ****** saving customer info *******
+2023-08-09 13:52:15PM: INFO: ***** validating test case ****** 
+2023-08-09 13:52:16PM: ERROR: ***** Add customer Test Failed ******
+2023-08-09 14:01:29PM: INFO: *******Test_003_Addcustomer*****
+2023-08-09 14:01:35PM: INFO: ******Login successful******
+2023-08-09 14:01:35PM: INFO: ******** starting Add customer******
+2023-08-09 14:01:38PM: INFO: ****** Adding customer info ******
+2023-08-09 14:01:48PM: INFO: ****** saving customer info *******
+2023-08-09 14:01:48PM: INFO: ***** validating test case ****** 
+2023-08-09 14:01:49PM: ERROR: ***** Add customer Test Failed ******
+2023-08-09 14:13:17PM: INFO: *******Test_003_Addcustomer*****
+2023-08-09 14:13:23PM: INFO: ******Login successful******
+2023-08-09 14:13:23PM: INFO: ******** starting Add customer******
+2023-08-09 14:13:26PM: INFO: ****** Adding customer info ******
+2023-08-09 14:13:40PM: INFO: ****** saving customer info *******
+2023-08-09 14:13:40PM: INFO: ***** validating test case ****** 
+2023-08-09 14:13:40PM: INFO: ***** Add customer Test is Passed *****
+2023-08-09 20:09:07PM: INFO: ******* Test_004_ serch customer ******
+2023-08-09 20:09:23PM: INFO: ******** login successful *******
+2023-08-09 20:09:23PM: INFO: ***** start serching customer email ******
+2023-08-09 20:09:25PM: INFO: ****** Adding customer email *******
+2023-08-09 20:19:38PM: INFO: ******* Test_004_ serch customer ******
+2023-08-09 20:19:44PM: INFO: ******** login successful *******
+2023-08-09 20:19:44PM: INFO: ***** start serching customer email ******
+2023-08-09 20:19:49PM: INFO: ****** Adding customer email *******
+2023-08-09 20:31:29PM: INFO: ******* Test_004_ serch customer ******
+2023-08-09 20:31:35PM: INFO: ******** login successful *******
+2023-08-09 20:31:35PM: INFO: ***** start serching customer email ******
+2023-08-09 20:31:37PM: INFO: ****** Adding customer email *******
+2023-08-09 20:31:42PM: INFO: ****** Test_004_serchCustomer is finished *******
+2023-08-10 01:34:55AM: INFO: ****** Test_005_SerchCustomer ****** 
+2023-08-10 01:34:57AM: INFO: ***** login statted *****
+2023-08-10 01:35:07AM: INFO: ***** Login Successful *****
+2023-08-10 01:35:09AM: INFO: ****** opean search window ******
+2023-08-10 01:35:12AM: INFO: ****** Test_005_SerchCustomer ****** 
+2023-08-10 01:49:18AM: INFO: ****** Test_005_SerchCustomer ****** 
+2023-08-10 01:49:20AM: INFO: ***** login statted *****
+2023-08-10 01:49:25AM: INFO: ***** Login Successful *****
+2023-08-10 01:49:26AM: INFO: ****** opean search window ******
+2023-08-10 01:49:29AM: INFO: ****** Test_005_SerchCustomer ****** 
+2023-08-10 01:55:37AM: INFO: ****** Test_005_SerchCustomer ****** 
+2023-08-10 01:55:39AM: INFO: ***** login statted *****
+2023-08-10 01:55:43AM: INFO: ***** Login Successful *****
+2023-08-10 01:55:45AM: INFO: ****** opean search window ******
+2023-08-10 02:05:40AM: INFO: ****** Test_005_SerchCustomer ****** 
+2023-08-10 02:05:42AM: INFO: ***** login statted *****
+2023-08-10 02:05:46AM: INFO: ***** Login Successful *****
+2023-08-10 02:05:53AM: INFO: ****** opean search window ******
+2023-08-10 02:11:03AM: INFO: ******* Test_004_ serch customer ******
+2023-08-10 02:11:09AM: INFO: ******** login successful *******
+2023-08-10 02:11:09AM: INFO: ***** start serching customer email ******
+2023-08-10 02:11:11AM: INFO: ****** Adding customer email *******
+2023-08-10 02:11:16AM: INFO: ****** Test_004_serchCustomer is finished *******
+2023-08-10 02:13:08AM: INFO: ****** Test_005_SerchCustomer ****** 
+2023-08-10 02:13:10AM: INFO: ***** login statted *****
+2023-08-10 02:13:15AM: INFO: ***** Login Successful *****
+2023-08-10 02:13:17AM: INFO: ****** opean search window ******
+2023-08-10 02:18:13AM: INFO: ****** Test_005_SerchCustomer ****** 
+2023-08-10 02:18:15AM: INFO: ***** login statted *****
+2023-08-10 02:18:19AM: INFO: ***** Login Successful *****
+2023-08-10 02:18:20AM: INFO: ****** opean search window ******
+2023-08-10 02:27:06AM: INFO: ****** Test_005_SerchCustomer ****** 
+2023-08-10 02:27:08AM: INFO: ***** login statted *****
+2023-08-10 02:27:12AM: INFO: ***** Login Successful *****
+2023-08-10 02:27:13AM: INFO: ****** opean search window ******
+2023-08-10 02:38:48AM: INFO: ****** Test_005_SerchCustomer ****** 
+2023-08-10 02:38:50AM: INFO: ***** login statted *****
+2023-08-10 02:38:54AM: INFO: ***** Login Successful *****
+2023-08-10 02:38:55AM: INFO: ****** opean search window ******
+2023-08-10 02:43:11AM: INFO: ****** Test_005_SerchCustomer ****** 
+2023-08-10 02:43:12AM: INFO: ***** login statted *****
+2023-08-10 02:43:16AM: INFO: ***** Login Successful *****
+2023-08-10 02:43:17AM: INFO: ****** opean search window ******
+2023-08-23 01:44:23AM: WARNING: Error getting version of chromedriver 116. Retrying with chromedriver 115 (attempt 1/5)
+2023-08-23 01:44:23AM: WARNING: Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 2/5)
+2023-08-25 00:42:54AM: INFO: ************* Test_001_Login ***************
+2023-08-25 00:42:54AM: INFO: ************* Verifing Home Page Title ***************
+2023-08-25 00:42:56AM: INFO: ************* Test is Passed ***************
+2023-08-25 00:43:00AM: INFO: ************* Verifing Login ***************
+2023-08-25 00:43:06AM: INFO: ************* Test Passed ***************
+2023-08-25 10:37:12AM: INFO: *******Test_003_Addcustomer*****
+2023-08-25 10:37:19AM: INFO: ******Login successful******
+2023-08-25 10:37:19AM: INFO: ******** starting Add customer******
+2023-08-25 10:37:22AM: INFO: ****** Adding customer info ******
+2023-08-25 10:37:32AM: INFO: ****** saving customer info *******
+2023-08-25 10:37:32AM: INFO: ***** validating test case ****** 
+2023-08-25 10:37:32AM: INFO: ***** Add customer Test is Passed *****
+2023-09-06 11:18:31AM: INFO: *******Test_003_Addcustomer*****
+2023-09-06 11:18:40AM: INFO: ******Login successful******
+2023-09-06 11:18:40AM: INFO: ******** starting Add customer******
+2023-09-06 11:18:46AM: INFO: ****** Adding customer info ******
+2023-09-06 11:18:56AM: INFO: ****** saving customer info *******
+2023-09-06 11:18:56AM: INFO: ***** validating test case ****** 
+2023-09-06 11:18:57AM: INFO: ***** Add customer Test is Passed *****
